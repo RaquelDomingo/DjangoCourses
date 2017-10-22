@@ -1,0 +1,78 @@
+#wrapper {
+	width: 700px;
+	height: 700px;
+	margin: 0px auto;
+	padding: 5px;
+    color: black;
+}
+#submitadd {
+	border: 2px bold black;
+	width: 50px;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 340px; 
+	background: green;
+	box-shadow: 5px 5px 5px black;
+	color: white;
+	font-size: 14px;
+}
+#formid {
+	display: inline-block;
+	margin: 10px;
+}
+#centralize {
+	margin-top: 100px;
+}
+table, td, th {
+    border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+	text-align: center;
+	background-color: lightgrey;
+}
+.formdes{
+	width: 300px;
+	height: 80px;
+}
+#container{
+	background-color: cornsilk;
+	padding-left: 20px;
+	padding-top: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.no{
+	border: 2px bold black;
+	width: 80px;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: lightgray;
+	box-shadow: 5px 5px 5px black;
+	color: black;
+	font-size: 14px;
+}
+.yes{
+	border: 2px bold black;
+	width: 200px;
+	height: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: darkred;
+	box-shadow: 5px 5px 5px black;
+	color: white;
+	font-size: 14px;
+}
+.confirm{
+	font-size: 16px;
+}
+.name{
+	margin-left: 40px;
+}
